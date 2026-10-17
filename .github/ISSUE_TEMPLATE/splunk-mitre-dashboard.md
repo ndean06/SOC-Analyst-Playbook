@@ -1,4 +1,3 @@
-
 ---
 name: Splunk MITRE ATT&CK Dashboard Deployment
 about: Reusable checklist for configuring and validating MITRE ATT&CK dashboards in any Splunk environment.
