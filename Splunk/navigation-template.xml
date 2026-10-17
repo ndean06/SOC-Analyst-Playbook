@@ -1,0 +1,10 @@
+<!-- Template: replace placeholders with URL paths verified in your Splunk deployment. -->
+<nav search_view="search">
+  <view name="search" default="true" />
+  <collection label="MITRE ATT&amp;CK">
+    <a href="/app/TARGET_APP/VERIFIED_EXECUTION_VIEW_ID">Execution</a>
+    <a href="/app/TARGET_APP/VERIFIED_PERSISTENCE_VIEW_ID">Persistence</a>
+    <!-- Add a link for each deployed dashboard. -->
+  </collection>
+  <!-- Preserve the target app's other required navigation entries. -->
+</nav>
